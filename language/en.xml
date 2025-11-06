@@ -17,6 +17,7 @@
         <item name="wcf.cs2bannliste.edit"><![CDATA[Edit Ban]]></item>
         <item name="wcf.cs2bannliste.unban"><![CDATA[Unban Player]]></item>
         <item name="wcf.cs2bannliste.confirmUnban"><![CDATA[Do you really want to unban this player?]]></item>
+        <item name="wcf.cs2bannliste.delete"><![CDATA[Delete Ban]]></item>
         <item name="wcf.cs2bannliste.save"><![CDATA[Save]]></item>
         <item name="wcf.cs2bannliste.cancel"><![CDATA[Cancel]]></item>
         <item name="wcf.cs2bannliste.back"><![CDATA[Back]]></item>
@@ -32,6 +33,9 @@
         <item name="wcf.acp.group.option.user.cs2bannliste.canAdd"><![CDATA[Can add bans]]></item>
         <item name="wcf.acp.group.option.user.cs2bannliste.canEdit"><![CDATA[Can edit bans]]></item>
         <item name="wcf.acp.group.option.user.cs2bannliste.canUnban"><![CDATA[Can unban players]]></item>
+        <item name="wcf.acp.group.option.user.cs2bannliste.canDelete"><![CDATA[Can delete bans]]></item>
+
     </category>
 
 </language>
+
