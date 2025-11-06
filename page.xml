@@ -30,5 +30,11 @@
             <name language="de">Spieler entbannen</name>
             <name language="en">Unban Player</name>
         </page>
+          <page identifier="de.ddbmaster.cs2bannliste.page.bandelete">
+            <pageType>system</pageType>
+            <controller>wcf\page\BanDeletePage</controller>
+            <name language="de">Bann löschen</name>
+            <name language="en">Delete Ban</name>
+        </page>
     </import>
 </data>
