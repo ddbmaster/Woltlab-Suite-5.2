@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" languagecode="de">
+    
+    <category name="wcf.cs2bannliste">
+        <item name="wcf.cs2bannliste.title"><![CDATA[CS2 Bannliste]]></item>
+        <item name="wcf.cs2bannliste.name"><![CDATA[Spielername]]></item>
+        <item name="wcf.cs2bannliste.steamid"><![CDATA[Steam-ID]]></item>
+        <item name="wcf.cs2bannliste.reason"><![CDATA[Grund]]></item>
+        <item name="wcf.cs2bannliste.admin"><![CDATA[Admin]]></item>
+        <item name="wcf.cs2bannliste.created"><![CDATA[Erstellt]]></item>
+        <item name="wcf.cs2bannliste.duration"><![CDATA[Dauer]]></item>
+        <item name="wcf.cs2bannliste.status"><![CDATA[Status]]></item>
+        <item name="wcf.cs2bannliste.empty"><![CDATA[Es wurden keine Banns gefunden.]]></item>
+
+        <item name="wcf.cs2bannliste.actions"><![CDATA[Aktionen]]></item>
+        <item name="wcf.cs2bannliste.add"><![CDATA[Neuen Bann hinzufügen]]></item>
+        <item name="wcf.cs2bannliste.edit"><![CDATA[Bann bearbeiten]]></item>
+        <item name="wcf.cs2bannliste.unban"><![CDATA[Spieler entbannen]]></item>
+        <item name="wcf.cs2bannliste.confirmUnban"><![CDATA[Soll dieser Spieler wirklich entbannt werden?]]></item>
+        <item name="wcf.cs2bannliste.save"><![CDATA[Speichern]]></item>
+        <item name="wcf.cs2bannliste.cancel"><![CDATA[Abbrechen]]></item>
+        <item name="wcf.cs2bannliste.back"><![CDATA[Zurück]]></item>
+
+        <item name="wcf.cs2bannliste.success.add"><![CDATA[Bann erfolgreich hinzugefügt.]]></item>
+        <item name="wcf.cs2bannliste.success.edit"><![CDATA[Bann erfolgreich aktualisiert.]]></item>
+        <item name="wcf.cs2bannliste.success.unban"><![CDATA[Spieler erfolgreich entbannt.]]></item>
+    </category>
+
+    <category name="wcf.acp.group">
+        <item name="wcf.acp.group.option.category.user.cs2bannliste"><![CDATA[CS2 Bannliste]]></item>
+        <item name="wcf.acp.group.option.user.cs2bannliste.canView"><![CDATA[Darf Bannliste anzeigen]]></item>
+        <item name="wcf.acp.group.option.user.cs2bannliste.canAdd"><![CDATA[Darf neue Banns hinzufügen]]></item>
+        <item name="wcf.acp.group.option.user.cs2bannliste.canEdit"><![CDATA[Darf bestehende Banns bearbeiten]]></item>
+        <item name="wcf.acp.group.option.user.cs2bannliste.canUnban"><![CDATA[Darf Spieler entbannen]]></item>
+    </category>
+
+</language>
