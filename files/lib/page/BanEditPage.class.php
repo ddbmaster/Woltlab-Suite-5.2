@@ -12,10 +12,10 @@ class BanEditPage extends AbstractPage {
     public $success = '';
     public $ban = [];
 
-    private $host = 'betreuteszocken.de';
-    private $db   = 'cs2_simpleadmin';
-    private $user = 'cs2_simpleadmin';
-    private $pass = 'UnHxbfweFT96q6cMbE2ysCxye3Rw9mQpeQ6uKCg';
+    private $host = 'xxxxxxx.de';
+    private $db   = 'xxxxxxx';
+    private $user = 'xxxxxxx';
+    private $pass = 'xxxxxxxxxxxxx';
     private $table = 'sa_bans';
 
     public function readData() {
